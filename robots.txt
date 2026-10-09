@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin.html
+Disallow: /my-downloads
+
+Sitemap: https://digitalvault.io/sitemap.xml
